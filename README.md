@@ -1,3 +1,6 @@
+- https://classroom.github.com/classrooms/149102133-ull-mfp-aet-2324-alu0101052274/assignments/microbit-assignment
+- https://classroom.github.com/classrooms/149102133-ull-mfp-aet-2324-alu0101052274
+- https://github.com/ull-mfp-aet-2324-alu0101052274
 
 > Open this page at <https://ull-mfp-aet.github.io/microbit-template/>
 
