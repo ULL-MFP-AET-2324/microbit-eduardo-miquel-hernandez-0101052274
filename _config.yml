@@ -3,6 +3,11 @@ makecode:
   platform: microbit
   home_url: https://makecode.microbit.org/
 theme: jekyll-theme-hacker
+asignatura: Tecnología
+lista de la compra:
+  - papas
+  - tomates
+  - huevos
 include:
   - assets
   - README.md
